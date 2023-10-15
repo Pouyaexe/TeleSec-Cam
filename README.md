@@ -1,9 +1,8 @@
 
 `TeleSec-Cam`
 
-### README.md:
 
-```markdown
+
 # TeleSec-Cam
 
 TeleSec-Cam is a security camera system powered by a Python script that utilizes a webcam to monitor a space for motion. When motion is detected, alerts are sent to specified users via a Telegram bot. Users can also interact with the bot to receive live captures on demand.
