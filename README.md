@@ -19,7 +19,7 @@ TeleSec-Cam is a security camera system powered by a Python script that utilizes
    ```bash
    git clone https://github.com/your-username/TeleSec-Cam.git
    cd TeleSec-Cam
-```
+   ```
 
 2. **Install Dependencies:**
 
