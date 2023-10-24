@@ -1,11 +1,14 @@
 
 `TeleSec-Cam`
 
+![Pic](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*6w87eM4Yx2jDfwHC4a7wFw.png)
 
 
 # TeleSec-Cam
 
 TeleSec-Cam is a security camera system powered by a Python script that utilizes a webcam to monitor a space for motion. When motion is detected, alerts are sent to specified users via a Telegram bot. Users can also interact with the bot to receive live captures on demand.
+
+## Check out the [Medium article on this Project!](https://medium.com/@pouyahallaj/diy-telegram-security-cam-with-python-a807766153e8)
 
 ## Features
 - Motion detection using a webcam.
@@ -54,11 +57,3 @@ If you'd like to contribute, please fork the repository and make changes as you'
 
 MIT
 
-## Support
-
-If you have any questions or issues, feel free to reach out to me at your-email@example.com.
-
-```
-
-Replace "your-username" and "your-email@example.com" with your actual GitHub username and your contact email, respectively. This README provides a basic outline of your project, setup instructions, usage guidelines, and support information. You can further customize it to include any additional information relevant to your project.
-```
